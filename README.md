@@ -1,4 +1,5 @@
 This is simple but highly effective JavaScript Opensea NFT Sniper bot. It should run on almost any device that has a web browser and that you can leave powered up 24/7. You should also be able to run multiple instances looking for different collections on OpenSea if so desired. 
+<img src="https://i.ibb.co/xz4bBkW/Screenshot-2022-04-09-05-34-25.png" alt="Screenshot-2022-04-09-05-34-25" border="0">
 
 Steps on setting it up
 <ol><li>
