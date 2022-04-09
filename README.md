@@ -10,13 +10,15 @@ In the unzip folder you will find config.js you will need to edit this in a text
 </li><li>
 After config.js is edited and saved with your settings simply run index.html in your webbrowser. 
 </li></ol>
+
 Here a YouTube tutorial that show step by step of how to set it up.
 
 Happy hunting :)
 
+
 When you get a big win and feel like buying me a cup of coffee this is my ethereum/BNB/polygon address
 
-
+0xb100B88C210b6aAea6f61A3dc1944a3b05e112a2
 
 
 
