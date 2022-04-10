@@ -13,6 +13,8 @@ After config.js is edited and saved with your settings simply run index.html in 
 
 Here a YouTube tutorial that show step by step of how to set it up.
 
+https://youtu.be/nrm3Q8Kyc7s
+
 Happy hunting :)
 
 
